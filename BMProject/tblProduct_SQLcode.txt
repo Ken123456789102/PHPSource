@@ -1,6 +1,0 @@
-INSERT INTO tblcategories_product (category_name, category_link) VALUES ('Hiển thị tất cả các sản phẩm', './ProductManager/displayProducts');
-INSERT INTO tblcategories_product (category_name, category_link) VALUES ('Tìm kiếm các loại', './ProductManager/getProductbyBand');
-INSERT INTO tblcategories_product (category_name, category_link) VALUES ('tìm kiếm theo năm', './ProductManager/getProductsbyBand');
-INSERT INTO tblcategories_product (category_name, category_link) VALUES ('Cập nhật sản phẩm', './ProductManager/UpdateProduct');
-INSERT INTO tblcategories_product (category_name, category_link) VALUES ('Thêm mỗi sản phẩm', './ProductManager/impInsertProduct');
-INSERT INTO tblcategories_product (category_name, category_link) VALUES ('Xóa sản phẩm', './ProductManager/deleteProducts');
